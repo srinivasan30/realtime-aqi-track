@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/realtime-aqi-track/static/css/main.750e2cd6.css",
+    "main.js": "/realtime-aqi-track/static/js/main.754c2ed4.js",
+    "index.html": "/realtime-aqi-track/index.html",
+    "main.750e2cd6.css.map": "/realtime-aqi-track/static/css/main.750e2cd6.css.map",
+    "main.754c2ed4.js.map": "/realtime-aqi-track/static/js/main.754c2ed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.750e2cd6.css",
+    "static/js/main.754c2ed4.js"
+  ]
+}
